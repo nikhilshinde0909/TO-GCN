@@ -19,7 +19,7 @@ Step I: Software installations \
 Install python and python modules described above with pip \
 for eg.\
 
-```pip install networkx==3.1```\
+```pip install networkx==3.1```
 
 or \
 create TO-GCN conda env from file
@@ -31,7 +31,7 @@ Estimate PCC cutoffs by using script Cutoff.py as follows
 
 ```python Cutoff.py TF_matrix.TSV All_gene_matrix.TSV```
 
-Step III: Get PCC values for TFs and genes as follows by using GCN.py \
+Step III: Get PCC values for TFs and genes as follows by using GCN.py 
 
 ```python GCN.py <positive PCC cutoff> <negative PCC cutoff> TF_matrix.TSV All_gene_matrix.TSV <output prefix>```
 
@@ -43,4 +43,4 @@ Step IV: Get time ordered levels for positively and negatively regulated genes u
 
 this will write <output prefix>-bfs_graph.html and <output prefix>-bfs_levels.TSV
 
-
+# Thanks for using TO-GCN 
