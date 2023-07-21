@@ -17,7 +17,7 @@ Scikit-learn==1.3.0
 
 Step I: Software installations \
 Install python and python modules described above with pip \
-for eg.\
+for eg.
 
 ```pip install networkx==3.1```
 
