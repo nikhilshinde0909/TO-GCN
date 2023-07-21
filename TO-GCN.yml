@@ -1,0 +1,44 @@
+name: TO-GCN
+channels:
+  - bioconda
+  - anaconda
+  - conda-forge
+dependencies:
+  - ipykernel=6.19.2
+  - ipython=8.8.0
+  - ipython_genutils=0.2.0
+  - ipywidgets=7.6.5
+  - jupyter=1.0.0
+  - jupyter_client=7.4.8
+  - jupyter_console=6.4.4
+  - jupyter_core=5.1.1
+  - jupyter_server=1.23.4
+  - jupyterlab=3.5.3
+  - jupyterlab_pygments=0.1.2
+  - jupyterlab_server=2.16.5
+  - jupyterlab_widgets=1.0.0
+  - libexpat=2.5.0
+  - mamba=1.4.1
+  - python-dateutil=2.8.2
+  - python-fastjsonschema=2.16.2
+  - python_abi=3.10
+  - wheel=0.40.0
+  - python=3.10.10
+  - pip:
+      - altair==4.0.0
+      - altair-data-server==0.4.1
+      - altair-saver==0.4.0
+      - altair-viewer==0.4.0
+      - matplotlib==3.7.1
+      - networkx==3.1
+      - numpy==1.25.0
+      - outcome==1.2.0
+      - pandas==1.5.3
+      - pdfkit==1.0.0
+      - pyvis==0.3.2
+      - scikit-learn==1.3.0
+      - scipy==1.11.0
+      - selenium==4.2.0
+      - vega==4.0.0
+      - vega-datasets==0.9.0
+      - wsproto==1.2.0
