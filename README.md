@@ -1,7 +1,7 @@
 # TO-GCN
 Python pipeline for Time Ordered Gene Co-expression Network analysis
 <p align="center">
-  <img src="https://github.com/nikhilshinde0909/TO-GCN/blob/main/workflow.png" width=50% height=20%>
+  <img src="https://github.com/nikhilshinde0909/TO-GCN/blob/main/workflow.png" width=50% height=15%>
 </p>
 
 
