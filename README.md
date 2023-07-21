@@ -1,6 +1,8 @@
 # TO-GCN
 Python pipeline for Time Ordered Gene Co-expression Network analysis
-
+<p align="center">
+  <img src="https://github.com/nikhilshinde0909/" width=50% height=25%>
+</p>
 # Execution
 Clone latest release of TO-GCN with following command \
 ```git clone https://github.com/nikhilshinde0909/TO-GCN.git```
