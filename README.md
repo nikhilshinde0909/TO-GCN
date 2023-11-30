@@ -23,7 +23,7 @@ Step I: Software installations \
 Install python and python modules described above with pip \
 for eg.
 
-```pip install networkx==3.1```
+``pip install networkx==3.1``
 
 or \
 create TO-GCN conda env from file
